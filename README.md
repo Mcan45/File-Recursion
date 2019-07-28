@@ -53,3 +53,6 @@ def find_files(suffix, path):
        a list of paths
     """
     return None
+    
+    
+Note: While testing the program you should unzip the testdir.zip on the same directory. Or you can use any of uncompressed folder on the same directory that you want to search.
